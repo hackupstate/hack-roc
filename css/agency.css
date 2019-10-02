@@ -143,6 +143,14 @@ img::-moz-selection {
   /* background-color: rgba(79, 36, 94, 0.7); */
 }
 
+.embed-responsive {
+  position: relative;
+  display: block;
+  width: 100%;
+  padding: 0;
+  overflow: hidden;
+}
+
 .custom-banner-page .fixed-top {
   top: 40px !important;
 }
