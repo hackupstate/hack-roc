@@ -1,4 +1,4 @@
-# Thincubator Website
+# Hack Roc
 
 ## Cloning the repo
 
