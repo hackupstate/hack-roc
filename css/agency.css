@@ -222,7 +222,7 @@ img::-moz-selection {
     padding: 1.1em 1em !important;
   }
   #mainNav.navbar-shrink {
-    padding-top: 0;
+    padding-top: 50px;
     padding-bottom: 0;
     background-color: #212529;
   }
